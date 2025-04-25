@@ -1,0 +1,171 @@
+[
+  {
+    "start": 0.0,
+    "end": 6.0,
+    "text": "I don't know what it's like in the DA's office now, but if I did what you did to someone who was with me in the trenches,",
+    "video_emotion": {
+      "emotion": "fear",
+      "score": 0.28
+    },
+    "audio_emotion": {
+      "emotion": "neu",
+      "score": 0.9914385080337524
+    }
+  },
+  {
+    "start": 6.0,
+    "end": 8.0,
+    "text": "I'd be done, like you are now.",
+    "video_emotion": {
+      "emotion": "neutral",
+      "score": 0.39
+    },
+    "audio_emotion": {
+      "emotion": "hap",
+      "score": 0.7467367649078369
+    }
+  },
+  {
+    "start": 8.0,
+    "end": 11.0,
+    "text": "You have no idea what the story is between me and Mike.",
+    "video_emotion": {
+      "emotion": "sad",
+      "score": 0.36
+    },
+    "audio_emotion": {
+      "emotion": "ang",
+      "score": 0.9982289671897888
+    }
+  },
+  {
+    "start": 11.0,
+    "end": 13.0,
+    "text": "I don't care what the story is.",
+    "video_emotion": {
+      "emotion": "happy",
+      "score": 0.66
+    },
+    "audio_emotion": {
+      "emotion": "ang",
+      "score": 0.7844103574752808
+    }
+  },
+  {
+    "start": 13.0,
+    "end": 16.0,
+    "text": "You hired me, and then you hung me out to dry.",
+    "video_emotion": {
+      "emotion": "angry",
+      "score": 0.47
+    },
+    "audio_emotion": {
+      "emotion": "neu",
+      "score": 0.617775022983551
+    }
+  },
+  {
+    "start": 16.0,
+    "end": 19.0,
+    "text": "You don't give me cases, you don't give me a word. What am I supposed to do?",
+    "video_emotion": {
+      "emotion": "angry",
+      "score": 0.44
+    },
+    "audio_emotion": {
+      "emotion": "ang",
+      "score": 0.7595035433769226
+    }
+  },
+  {
+    "start": 19.0,
+    "end": 24.0,
+    "text": "We both know how you got here. You expect more from me? That's not my problem.",
+    "video_emotion": {
+      "emotion": "neutral",
+      "score": 0.42
+    },
+    "audio_emotion": {
+      "emotion": "hap",
+      "score": 0.9321943521499634
+    }
+  },
+  {
+    "start": 24.0,
+    "end": 28.0,
+    "text": "I do know how I got here, which is how I know you're not gonna fire me.",
+    "video_emotion": {
+      "emotion": "neutral",
+      "score": 0.8
+    },
+    "audio_emotion": {
+      "emotion": "neu",
+      "score": 0.8777629733085632
+    }
+  },
+  {
+    "start": 28.0,
+    "end": 31.0,
+    "text": "So keep your empty threats to yourself.",
+    "video_emotion": {
+      "emotion": "angry",
+      "score": 0.4
+    },
+    "audio_emotion": {
+      "emotion": "ang",
+      "score": 0.9417567849159241
+    }
+  },
+  {
+    "start": 31.0,
+    "end": 35.0,
+    "text": "When I said you're done, I meant your future at this firm is over,",
+    "video_emotion": {
+      "emotion": "neutral",
+      "score": 0.41
+    },
+    "audio_emotion": {
+      "emotion": "hap",
+      "score": 0.9901236891746521
+    }
+  },
+  {
+    "start": 35.0,
+    "end": 39.0,
+    "text": "because you will never be anything more than you are right now.",
+    "video_emotion": {
+      "emotion": "neutral",
+      "score": 0.6
+    },
+    "audio_emotion": {
+      "emotion": "hap",
+      "score": 0.774586021900177
+    }
+  },
+  {
+    "start": 39.0,
+    "end": 44.0,
+    "text": "And if you ever do anything like that to my gross again,",
+    "video_emotion": {
+      "emotion": "sad",
+      "score": 0.5
+    },
+    "audio_emotion": {
+      "emotion": "neu",
+      "score": 0.7823318243026733
+    }
+  },
+  {
+    "start": 44.0,
+    "end": 48.0,
+    "text": "I don't give a shit what our deal was. You'll be gone.",
+    "video_emotion": {
+      "emotion": "neutral",
+      "score": 0.39
+    },
+    "audio_emotion": {
+      "emotion": "hap",
+      "score": 0.542818546295166
+    }
+  }
+]

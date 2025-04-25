@@ -1,0 +1,13 @@
+[00:00.0] (face: fear, voice: neu) “I don't know what it's like in the DA's office now, but if I did what you did to someone who was with me in the trenches,”
+[00:06.0] (face: neutral, voice: hap) “I'd be done, like you are now.”
+[00:08.0] (face: sad, voice: ang) “You have no idea what the story is between me and Mike.”
+[00:11.0] (face: happy, voice: ang) “I don't care what the story is.”
+[00:13.0] (face: angry, voice: neu) “You hired me, and then you hung me out to dry.”
+[00:16.0] (face: angry, voice: ang) “You don't give me cases, you don't give me a word. What am I supposed to do?”
+[00:19.0] (face: neutral, voice: hap) “We both know how you got here. You expect more from me? That's not my problem.”
+[00:24.0] (face: neutral, voice: neu) “I do know how I got here, which is how I know you're not gonna fire me.”
+[00:28.0] (face: angry, voice: ang) “So keep your empty threats to yourself.”
+[00:31.0] (face: neutral, voice: hap) “When I said you're done, I meant your future at this firm is over,”
+[00:35.0] (face: neutral, voice: hap) “because you will never be anything more than you are right now.”
+[00:39.0] (face: sad, voice: neu) “And if you ever do anything like that to my gross again,”
+[00:44.0] (face: neutral, voice: hap) “I don't give a shit what our deal was. You'll be gone.”
